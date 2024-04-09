@@ -1,0 +1,12 @@
+.card {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  .carousel-item {
+      height: 700px;
+  }
+
+  .card-text {
+    margin-top: 10px;
+  }
